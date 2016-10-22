@@ -1,6 +1,0 @@
-c:\users\bernarda\documents\visual studio 2015\Projects\PrvaDz\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.exe.config
-c:\users\bernarda\documents\visual studio 2015\Projects\PrvaDz\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.csprojResolveAssemblyReference.cache
-C:\Users\bernarda\documents\visual studio 2015\Projects\PrvaDz\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.exe
-C:\Users\bernarda\documents\visual studio 2015\Projects\PrvaDz\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.pdb
-C:\Users\bernarda\documents\visual studio 2015\Projects\PrvaDz\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.exe
-C:\Users\bernarda\documents\visual studio 2015\Projects\PrvaDz\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.pdb
